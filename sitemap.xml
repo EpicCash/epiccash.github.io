@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://devdocs.epiccash.com/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/integrations/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/integrations/exchanges/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/cli/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/errors/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/foreign/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/owner/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/node/stratum/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/cli/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/errors/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/foreign/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/owner/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://devdocs.epiccash.com/wallet/tx_workflow/</loc>
-         <lastmod>2024-03-22</lastmod>
+         <lastmod>2024-03-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
